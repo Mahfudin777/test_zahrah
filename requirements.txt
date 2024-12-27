@@ -6,3 +6,4 @@ numpy
 panda
 scikit-learn
 mysql-connector-python
+solutions
