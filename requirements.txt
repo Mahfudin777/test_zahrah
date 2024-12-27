@@ -9,3 +9,4 @@ mysql-connector-python
 solutions
 torch
 cv2opencv-python
+pip install --upgrade pip
