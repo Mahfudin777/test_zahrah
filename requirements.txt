@@ -1,5 +1,5 @@
 streamlit
 ultralytics
-ultralytics-solutions
+solutions
 opencv-python
 opencv-python-headless
