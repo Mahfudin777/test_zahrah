@@ -1,4 +1,4 @@
-from ultralytics import solutions # type: ignore
+from ultralytics import solutions
 
 # Pass a model as an argument
 solutions.inference(model="best.pt")
