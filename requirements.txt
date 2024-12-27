@@ -3,4 +3,4 @@ ultralytics
 numpy
 torch
 opencv-python-headless
-
+yolo
