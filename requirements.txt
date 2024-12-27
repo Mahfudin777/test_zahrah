@@ -1,6 +1,2 @@
 streamlit
 ultralytics
-solutions
-opencv-python
-opencv-python-headless
-inference
