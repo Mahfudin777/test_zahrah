@@ -1,7 +1,7 @@
 from ultralytics import solutions
 
 inf = solutions.Inference(
-    model="best.pt",  # You can use any model that Ultralytics support, i.e. YOLO11, or custom trained model
+    model="yolo11.pt",  # You can use any model that Ultralytics support, i.e. YOLO11, or custom trained model
 )
 
 inf.inference()
