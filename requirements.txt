@@ -1,11 +1,4 @@
 streamlit
 ultralytics
-openai
-joblib
-numpy
-panda
-scikit-learn
-mysql-connector-python
-torch
 opencv-python
-FastSAM
+opencv-python-headless
