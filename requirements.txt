@@ -1,5 +1,5 @@
 streamlit
-ultralytics.solutions
+ultralytics
 openai
 joblib
 numpy
